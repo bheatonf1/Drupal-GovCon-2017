@@ -16,3 +16,4 @@ permissions:
   - 'create session content'
   - 'edit own session content'
   - 'use text format general_user'
+  - 'use text format simple_text'
